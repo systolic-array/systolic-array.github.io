@@ -1,1 +1,0 @@
-# systolic-array.github.io
