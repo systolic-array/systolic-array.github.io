@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Systolic Array Blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://systolic-array.github.io/</link>
     <description>Recent content on Systolic Array Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Feb 2025 14:51:16 -0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Feb 2025 10:36:57 -0800</lastBuildDate>
+    <atom:link href="https://systolic-array.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writing Something</title>
+      <link>https://systolic-array.github.io/posts/writing-something/</link>
+      <pubDate>Wed, 05 Feb 2025 10:36:57 -0800</pubDate>
+      <guid>https://systolic-array.github.io/posts/writing-something/</guid>
+      <description>&lt;p&gt;Writing forces you to really think.  Well, if your inner critic has high standards then yes, it &lt;em&gt;really&lt;/em&gt; forces you to think.&lt;/p&gt;&#xA;&lt;p&gt;So I am writing this so that the rubber hits the road of writing in this format and exploring what to write about.&lt;/p&gt;&#xA;&lt;p&gt;Some things I enjoy about writing this in Github are that.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;This is completely free (I really find it superfluous to be paying for a fancy blog, some elaborate journal social network thing, etc.)&lt;/li&gt;&#xA;&lt;li&gt;Writing in Markdown is very intuitive and is more intimate than the essay style format the closed-source world and mind clings to&lt;/li&gt;&#xA;&lt;li&gt;GitHub enables me to add intuitive version control to my writing&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Some things I want to write about&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Writing Is Cool</title>
-      <link>http://localhost:1313/posts/testpost/</link>
+      <link>https://systolic-array.github.io/posts/testpost/</link>
       <pubDate>Tue, 04 Feb 2025 14:51:16 -0800</pubDate>
-      <guid>http://localhost:1313/posts/testpost/</guid>
+      <guid>https://systolic-array.github.io/posts/testpost/</guid>
       <description>&lt;h1 id=&#34;writing-is-cool&#34;&gt;Writing is Cool!&lt;/h1&gt;&#xA;&lt;p&gt;This is a test sentence from my text editor, excited to start writing!&lt;/p&gt;</description>
     </item>
   </channel>
