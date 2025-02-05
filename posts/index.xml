@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Systolic Array Blog</title>
+    <link>https://systolic-array.github.io/posts/</link>
+    <description>Recent content in Posts on Systolic Array Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Feb 2025 14:51:16 -0800</lastBuildDate>
+    <atom:link href="https://systolic-array.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writing Is Cool</title>
+      <link>https://systolic-array.github.io/posts/testpost/</link>
+      <pubDate>Tue, 04 Feb 2025 14:51:16 -0800</pubDate>
+      <guid>https://systolic-array.github.io/posts/testpost/</guid>
+      <description>&lt;h1 id=&#34;writing-is-cool&#34;&gt;Writing is Cool!&lt;/h1&gt;</description>
+    </item>
+  </channel>
+</rss>
